@@ -14,6 +14,8 @@ Decidi desenvolver este portfólio por várias razões:
 
 - **Aprimorar minhas habilidades de desenvolvimento**
 
+## Acesse Meu Portfólio
+Você pode acessar meu portfólio [aqui](https://gabi0201.github.io/).
 ## Contato
 
 Se você gostaria de entrar em contato comigo para discutir oportunidades de trabalho, colaborações ou apenas para dizer olá, você pode me encontrar nas seguintes plataformas:
