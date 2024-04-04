@@ -18,7 +18,7 @@ Decidi desenvolver este portfólio por várias razões:
 
 Se você gostaria de entrar em contato comigo para discutir oportunidades de trabalho, colaborações ou apenas para dizer olá, você pode me encontrar nas seguintes plataformas:
 - [LinkedIn](https://www.linkedin.com/in/gabrielle-amaral-b799b1178/)
-- [Email](gabrielle.amaral0201@hotmail.com)
+- [E-mail](mailto:gabrielle.amaral0201@hotmail.com)
 
 ## Licença
 
